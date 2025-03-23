@@ -1,4 +1,4 @@
-Installing node
+Installing node 
 
 Going to npm selenium-webdriver, and You will need to download additional components to work with each of the major browsers
 
